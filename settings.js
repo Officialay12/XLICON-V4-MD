@@ -41,21 +41,21 @@ const chalk = require('chalk');
 
 
 //~~~~~~~~< Owner Information>~~~~~~~~~~~~~~\\
-global.ytname = process.env.YT_NAME || "YT: S4 SALMAN YT";
+global.ytname = process.env.YT_NAME || "YT: Officialay";
 
 global.socialm = process.env.GITHUB_USERNAME || "GitHub: salmanytofficial";
 
-global.location = process.env.LOCATION || "Pakistan, Lahore, Sabzazar";
+global.location = process.env.LOCATION || "lagos, ikeja, Nigeria";
 
 
 //~~~~~~~~<Session and Bot Details>~~~~~~~~~~~~~\\
 global.SESSION_ID = process.env.SESSION_ID || '';
 
-global.botname = process.env.BOT_NAME || 'XLICON-V4-MD';
+global.botname = process.env.BOT_NAME || 'SUNG-MD';
 
-global.ownernumber = [process.env.OWNER_NUMBER || '923184070915'];
+global.ownernumber = [process.env.OWNER_NUMBER || '2349159180375'];
 
-global.ownername = process.env.OWNER_NAME || '𝙎𝙖𝙡𝙢𝙖𝙣 𝘼𝙝𝙢𝙖𝙙';
+global.ownername = process.env.OWNER_NAME || 'Ayo-codes';
 
 
 //~~~~~~<Website and Social Links>~~~~~~~~~~\\
@@ -67,13 +67,13 @@ global.wagc = process.env.WHATSAPP_CHANNEL || "https://whatsapp.com/channel/0029
 //~~~~~~~~<Theme and Miscellaneous>~~~~~~~~~~\\
 global.themeemoji = process.env.THEME_EMOJI || '⛩';
 
-global.wm = process.env.WATERMARK || "Xlicon Bot Inc.";
+global.wm = process.env.WATERMARK || "Ayo Bot Inc.";
 
 global.botscript = process.env.SCRIPT_LINK || 'https://github.com/salmanytofficial/XLICON-V4-MD';
 
-global.packname = process.env.PACK_NAME || "𝘼𝙃𝙃𝙈𝙄 𝙆𝙐𝙉";
+global.packname = process.env.PACK_NAME || "Ayo codes ";
 
-global.author = process.env.AUTHOR_NAME || "MΛDΣ BY 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿";
+global.author = process.env.AUTHOR_NAME || "MΛDΣ BY Ayo-codes";
 
 global.creator = process.env.CREATOR_NUMBER || "923184070915@s.whatsapp.net";
 
@@ -81,7 +81,7 @@ global.creator = process.env.CREATOR_NUMBER || "923184070915@s.whatsapp.net";
 //~~~~~~~~~~~~~<Bot Settings>~~~~~~~~~~~~~~~\\
 global.xprefix = process.env.XPREFIX || '.';
 
-global.premium = [process.env.PREMIUM_NUMBER || '923184070915'];
+global.premium = [process.env.PREMIUM_NUMBER || '2349159180375'];
 
 global.typemenu = process.env.MENU_TYPE || 'v2';
 
